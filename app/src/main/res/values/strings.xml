@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">toVisit_ikroop_c0774174</string>
+    <string name="add_a_new_employee">CONTACT DETAIL</string>
+    <string name="select_department">Age of person</string>
+    <string name="add_person">ADD PERSON INFORMATION</string>
+    <string name="view_person_information">VIEW CONTACTS</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+</resources>
